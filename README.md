@@ -53,10 +53,3 @@ The goal is to identify high-risk transactions in real time and provide actionab
 
 ---
 
-## 💡 Recommendations
-1. Deploy **real-time model scoring** for high-risk transactions.  
-2. Enforce **multi-factor authentication (MFA)** for high-value `CASH-OUT` and `TRANSFER` operations.  
-3. Use **device fingerprinting** and **geolocation verification** to detect anomalies.  
-4. Retrain the model regularly with new data to adapt to evolving fraud tactics.  
-
----
